@@ -1,0 +1,8 @@
+Mongodb Setup
+
+https://www.mongodb.com/try/download/community (Download)
+After downloading open and give next next and install
+then cmd -> mongo --version (if it shows error use the below link and do the steps)
+https://codinglead.co/javascript/setting-environment-variables-in-windows-10
+
+then restart the system -> cmd -> mongo --version -> mongo -> exit (it will show "bye")
